@@ -1,0 +1,6 @@
+1. Crie um repositório no GitHub.
+2. Envie o conteúdo deste ZIP para a RAIZ do repositório.
+3. Abra Actions > Gerar APK > Run workflow.
+4. Quando concluir, abra a execução.
+5. Em Artifacts, baixe RoulettePulse-APK.
+6. Extraia o ZIP; dentro estará RoulettePulse.apk.
